@@ -61,7 +61,7 @@ La gateway redirige correctement les requêtes vers TorchServe.
 
 ## 5) Redéploiement
 - Nouvelle version de poids :
-best_v2.pt
+best-v2.pt
 
 - Étapes effectuées :
 
